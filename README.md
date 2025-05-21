@@ -1,4 +1,4 @@
-# CSE 130 - Computer Security
+# CSE 130 - Introduction to Cryptography
 
 This repository contains my implementations and solutions for the Introduction to Cryptography course (CSE 130) at UC Merced. At the time of attendance, this was the first semester this course was offered.
 
